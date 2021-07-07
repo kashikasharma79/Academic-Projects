@@ -1,1 +1,6 @@
 
+1. Implementation of Logistic Regression from scratch.
+2. Training this model on moons and blobs datasets provided.
+3. Implementation and Testing of a shallow neural network on the same datasets.
+4. Image Classification on CIFAR-10 dataset.
+5. Enhancements in the code implemented.
