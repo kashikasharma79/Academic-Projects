@@ -1,1 +1,4 @@
 
+1. Image classification using a pretrained image classification model.
+2. Extracting the scalar output from each neuron to identify the neurons whose scalar output is strongly correlated with the class label.
+3. Object localization and visualizing it.
